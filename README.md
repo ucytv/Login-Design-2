@@ -6,7 +6,7 @@ This project consists of design only. The design which follows the trends of 202
 
 ![login_design_2](https://user-images.githubusercontent.com/37077627/82705455-58560200-9c80-11ea-8b8f-7c761f28e9ec.png)
 
-#Dependencies
+### Dependencies
 
 ```
 implementation 'com.google.android.material:material:1.1.0'
