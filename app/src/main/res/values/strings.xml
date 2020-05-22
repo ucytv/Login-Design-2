@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginDesign2</string>
+    <string name="account_text">Don\'t you have an account yet?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="nickname">Nickname</string>
+    <string name="remember">Remember Me</string>
+    <string name="forgot">I forgot my password</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+</resources>
